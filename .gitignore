@@ -1,0 +1,14 @@
+# Môi trường ảo
+venv/
+env/
+.env
+
+# Thư mục cấu hình local và IDE
+.aistudio/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Data và models (nếu file quá lớn)
+*.onnx
