@@ -6,8 +6,7 @@ Dự án được xây dựng với các chức năng cốt lõi cho hệ thốn
 2. **Tuần 4**: Trích xuất đặc trưng khuôn mặt (Face Embedding SFace) & API Đăng ký nhân viên (Enrollment).
 
 ## Cấu trúc lưu trữ
-* `storage/success/`: Lưu trữ ảnh/frame nhận diện & đăng ký thành công.
-* `storage/failed/`: Lưu trữ ảnh lỗi (Quality Gate fail, khẩu trang, landmark fail) để phục vụ debug.
+`storage/failed/`: Lưu trữ ảnh lỗi (Quality Gate fail, khẩu trang, landmark fail) để phục vụ debug.
 
 ## Hướng dẫn cài đặt và khởi chạy
 
